@@ -1,4 +1,4 @@
-## Linux Monitoring Tools Every SysAdmin Should Know About
+## Linux Monitoring Tools 
 
 A good system administrator can do wonders with the built-in monitoring tools that come with most Linux distributions. But in order to make the most out of what Linux has to offer, you first need to know where you can find all these tools. Some of the most important sysadmin tools are available right off the bat when you first install Linux and can be accessed via the Terminal while others come in the form of open-source software, custom scripts or third-party applications that need to be installed manually.
 
